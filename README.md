@@ -1,45 +1,55 @@
-📊 Sales Performance Dashboard — Power BI Capstone Project
-👤 Student Details
-📝 Project Overview
-An interactive Power BI Dashboard built on a retail sales dataset (Jan–Dec 2024). This project transforms 56 transaction records into actionable insights using dynamic KPI summaries, regional comparisons, and category-wise profit analysis.
+# Sales Performance Dashboard — Power BI Capstone Project
 
-💡 Key Findings
-Total Sales: INR 16M (Global)
+## Student Details
+| Field | Details |
+|-------|---------|
+| **Name** | SURYA PRAKASH |
+| **Roll Number** | 2306236 |
+| **Batch / Program** | B.Tech (Information Technology) |
+| **Submission Date** | April 21, 2026 |
 
-Total Profit: INR 3M (~19% Margin)
+## Project Overview
+An interactive Power BI dashboard built on a retail sales dataset (Jan–Dec 2024) with 56 transaction records. It provides dynamic KPI summaries, regional sales comparison, category-wise profit analysis, and product performance tables — all controlled by interactive slicers.
 
-Top Region: South (INR 5M)
+## Key Findings
+- **Total Sales:** INR 16M across all regions
+- **Total Profit:** INR 3M (Profit Margin ~19%)
+- **Top Region:** South — INR 5M in sales
+- **Top Product:** Mobile Phone — INR 4.97M in sales
+- **Electronics vs Furniture:** Electronics contributes 83%+ of profit in every region
 
-Top Product: Mobile Phone (INR 4.97M)
+## Project Structure
+```
+PowerBI_Project/
+├── dataset/
+│   └── sales_data.csv          ← Source dataset (56 records)
+├── Sales_Dashboard.pbix        ← Power BI dashboard file
+├── Project_Documentation.pdf   ← Full project report (5 pages)
+├── HOW_TO_CREATE_PBIX.txt      ← Step-by-step Power BI guide
+└── README.md                   ← This file
+```
 
-Category Insight: Electronics contributes 83%+ of total profit.
+## Dashboard Features
+- **KPI Cards** — Total Sales, Total Profit, Units Sold, Unit Price Sum
+- **Regional Bar Chart** — North / South / East / West comparison
+- **Year-wise Sales Chart** — 2024 reference trend
+- **Category Donut Chart** — Electronics vs Furniture profit split
+- **Product Performance Table** — Units, Sales & Profit per product
+- **Interactive Region Slicer** — Filters all visuals simultaneously
 
-📂 Project Structure
-🚀 Dashboard Features
-KPI Cards: Real-time tracking of Total Sales, Profit, Units Sold, and Unit Price.
+## Tech Stack
+| Component | Tool |
+|-----------|------|
+| Visualization | Microsoft Power BI Desktop |
+| Data Source | CSV / Excel |
+| Calculations | DAX (Data Analysis Expressions) |
+| ETL | Power Query (M Language) |
 
-Regional Analysis: Bar chart comparing North, South, East, and West performance.
+## How to Run
+1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
+2. Open `Sales_Dashboard.pbix`
+3. If prompted, update the data source path to `dataset/sales_data.csv`
+4. Use the Region slicer to explore regional performance
 
-Category Insights: Donut chart showing Electronics vs. Furniture profit split.
-
-Product Performance: Detailed table view for Units, Sales, and Profit per product.
-
-Interactive Slicers: Region-based filtering that updates all visuals instantly.
-
-🛠️ Tech Stack
-📖 How to Run
-Install Power BI Desktop (Free version).
-
-Clone this repository or download the .pbix file.
-
-Open Sales_Dashboard.pbix.
-
-If prompted, re-link the data source to dataset/sales_data.csv.
-
-Interact with the Region Slicer to explore different data views.
-
-📊 Dataset Columns
-The analysis is based on the following attributes:
-Order_ID | Date | Product | Category | Region | Salesperson | Units_Sold | Unit_Price | Total_Sales | Profit | Customer_Name
-
-Created by Surya Prakash - 2026
+## Dataset Columns
+`Order_ID | Date | Product | Category | Region | Salesperson | Units_Sold | Unit_Price | Total_Sales | Profit | Customer_Name`

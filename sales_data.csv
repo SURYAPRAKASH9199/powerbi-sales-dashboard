@@ -1,0 +1,57 @@
+Order_ID,Date,Product,Category,Region,Salesperson,Units_Sold,Unit_Price,Total_Sales,Profit,Customer_Name
+1001,2024-01-05,Laptop,Electronics,North,Amit Kumar,10,45000,450000,90000,Tech Solutions Ltd
+1002,2024-01-08,Mobile Phone,Electronics,South,Priya Sharma,25,18000,450000,85000,Digital World
+1003,2024-01-12,Office Chair,Furniture,East,Rohit Singh,15,8500,127500,25500,Office Hub
+1004,2024-01-15,Desk,Furniture,West,Sneha Patel,8,12000,96000,19200,WorkSpace Co
+1005,2024-01-20,Headphones,Electronics,North,Amit Kumar,30,3500,105000,21000,Sound Zone
+1006,2024-02-03,Laptop,Electronics,South,Priya Sharma,12,45000,540000,108000,Byte Masters
+1007,2024-02-07,Keyboard,Electronics,East,Rohit Singh,40,2000,80000,16000,IT Depot
+1008,2024-02-11,Bookshelf,Furniture,West,Sneha Patel,20,6000,120000,24000,Home Needs
+1009,2024-02-18,Monitor,Electronics,North,Vikas Mehta,18,22000,396000,79200,Vision Tech
+1010,2024-02-22,Mobile Phone,Electronics,South,Priya Sharma,35,18000,630000,119000,Smart Gadgets
+1011,2024-03-01,Laptop,Electronics,East,Rohit Singh,9,45000,405000,81000,Tech Universe
+1012,2024-03-05,Office Chair,Furniture,West,Sneha Patel,22,8500,187000,37400,Comfort Zone
+1013,2024-03-14,Headphones,Electronics,North,Amit Kumar,45,3500,157500,31500,Audio Palace
+1014,2024-03-19,Desk,Furniture,South,Priya Sharma,11,12000,132000,26400,StudySpace
+1015,2024-03-25,Monitor,Electronics,East,Rohit Singh,14,22000,308000,61600,DisplayPro
+1016,2024-04-02,Mobile Phone,Electronics,West,Sneha Patel,28,18000,504000,95200,PhoneZone
+1017,2024-04-09,Keyboard,Electronics,North,Vikas Mehta,55,2000,110000,22000,KeyMasters
+1018,2024-04-15,Laptop,Electronics,South,Priya Sharma,7,45000,315000,63000,NexaTech
+1019,2024-04-20,Bookshelf,Furniture,East,Rohit Singh,18,6000,108000,21600,ReadMore
+1020,2024-04-28,Office Chair,Furniture,West,Sneha Patel,25,8500,212500,42500,ErgoSeat
+1021,2024-05-03,Monitor,Electronics,North,Amit Kumar,16,22000,352000,70400,ClearView
+1022,2024-05-10,Mobile Phone,Electronics,South,Vikas Mehta,32,18000,576000,108800,GadgetHub
+1023,2024-05-17,Desk,Furniture,East,Rohit Singh,10,12000,120000,24000,DeskCraft
+1024,2024-05-23,Headphones,Electronics,West,Sneha Patel,38,3500,133000,26600,BassZone
+1025,2024-05-30,Laptop,Electronics,North,Amit Kumar,11,45000,495000,99000,ProTech
+1026,2024-06-04,Keyboard,Electronics,South,Priya Sharma,48,2000,96000,19200,TypeRight
+1027,2024-06-11,Office Chair,Furniture,East,Rohit Singh,19,8500,161500,32300,SitRight
+1028,2024-06-18,Bookshelf,Furniture,West,Sneha Patel,14,6000,84000,16800,BookWorld
+1029,2024-06-25,Monitor,Electronics,North,Vikas Mehta,20,22000,440000,88000,PixelPerfect
+1030,2024-06-30,Mobile Phone,Electronics,South,Priya Sharma,29,18000,522000,98800,MobileMart
+1031,2024-07-05,Laptop,Electronics,East,Rohit Singh,13,45000,585000,117000,TechEdge
+1032,2024-07-12,Desk,Furniture,West,Sneha Patel,9,12000,108000,21600,WorkDesk
+1033,2024-07-19,Headphones,Electronics,North,Amit Kumar,42,3500,147000,29400,SoundPro
+1034,2024-07-26,Keyboard,Electronics,South,Vikas Mehta,60,2000,120000,24000,QuickType
+1035,2024-08-02,Monitor,Electronics,East,Rohit Singh,17,22000,374000,74800,UltraView
+1036,2024-08-09,Mobile Phone,Electronics,West,Sneha Patel,31,18000,558000,105600,SmartPhone
+1037,2024-08-16,Office Chair,Furniture,North,Amit Kumar,24,8500,204000,40800,ChairPlus
+1038,2024-08-23,Laptop,Electronics,South,Priya Sharma,8,45000,360000,72000,LaptopWorld
+1039,2024-08-30,Bookshelf,Furniture,East,Rohit Singh,16,6000,96000,19200,ShelfMart
+1040,2024-09-06,Desk,Furniture,West,Sneha Patel,12,12000,144000,28800,DeskMaster
+1041,2024-09-13,Headphones,Electronics,North,Vikas Mehta,50,3500,175000,35000,EarZone
+1042,2024-09-20,Mobile Phone,Electronics,South,Priya Sharma,27,18000,486000,91800,PhonePro
+1043,2024-09-27,Monitor,Electronics,East,Rohit Singh,15,22000,330000,66000,ScreenWorld
+1044,2024-10-04,Keyboard,Electronics,West,Sneha Patel,52,2000,104000,20800,KeyZone
+1045,2024-10-11,Laptop,Electronics,North,Amit Kumar,14,45000,630000,126000,MegaTech
+1046,2024-10-18,Office Chair,Furniture,South,Vikas Mehta,21,8500,178500,35700,ComfortSeat
+1047,2024-10-25,Bookshelf,Furniture,East,Rohit Singh,13,6000,78000,15600,PageTurner
+1048,2024-11-01,Mobile Phone,Electronics,West,Sneha Patel,33,18000,594000,112200,iZone
+1049,2024-11-08,Monitor,Electronics,North,Amit Kumar,19,22000,418000,83600,BrightView
+1050,2024-11-15,Desk,Furniture,South,Priya Sharma,10,12000,120000,24000,StudyDesk
+1051,2024-11-22,Headphones,Electronics,East,Rohit Singh,44,3500,154000,30800,BeatZone
+1052,2024-11-29,Laptop,Electronics,West,Sneha Patel,6,45000,270000,54000,TechNova
+1053,2024-12-06,Keyboard,Electronics,North,Vikas Mehta,58,2000,116000,23200,TypeMaster
+1054,2024-12-13,Mobile Phone,Electronics,South,Priya Sharma,36,18000,648000,122400,MobileWorld
+1055,2024-12-20,Office Chair,Furniture,East,Rohit Singh,26,8500,221000,44200,SitComfort
+1056,2024-12-27,Bookshelf,Furniture,West,Sneha Patel,17,6000,102000,20400,ReadZone
